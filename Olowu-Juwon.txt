@@ -1,0 +1,4 @@
+Git/GitHub Test
+
+1. What is difference between Git and GitHub?
+Ans: git is a local Version Control System software that enables developers to save snapshots of their projects over time while Github is a a remote/web-based platform that incorporates git's version control features so they can be used collaboratively
