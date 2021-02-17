@@ -18,4 +18,25 @@ b) Beanstalk
 c) SourceForge
 d) Perforce
 
+5. What is a Repository in Git?
+Ans: Respository in git is a folder which encapsulate a whole project work.
 
+6. How can you create a repository in Git?
+Ans: we can create a new repository on our Github account to remotely create a new one for automatic commit.
+
+7. Name a few Git commands and explain their usage.
+Ans: a) touch file_name: for creating new file
+b) mkdir directory_name : for creating new directory
+c) cat: to display file content
+d) ls: to give an outline of all document in the directory
+e) cp file_name new_file_name: to copy
+f) mv old_file_name new_file_name: to move 
+
+8) What is Git?
+Ans: git is a local Version Control System software that enables developers to save snapshots of their projects over time
+
+9) What is a .git Directory?
+Ans: .git Directory is folder that encapsulate all project and help git make track on all our document
+
+10. What happens if the .git directory gets deleted?
+Ans: Git won't be able to further give track on our document
