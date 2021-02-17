@@ -9,3 +9,13 @@ a) Helps take a snapshot of a developer work
 b) It help collaborate with other the developer
 c) It make availabe resourceful material about a particular document to the public
 
+3. what is the language used in Git?
+Ans: Git used Python
+
+4. Mention the various Git repository hosting service providers (at least 4)
+Ans: a) Amazon AWS CodeCommit
+b) Beanstalk
+c) SourceForge
+d) Perforce
+
+
